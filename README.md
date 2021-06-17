@@ -2,8 +2,8 @@
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
-     <link rel="stylesheet" href="body{max-width:650px;margin:40px auto;padding:0 10px;font:18px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";color:#444}h1,h2,h3{line-height:1.2}@media (prefers-color-scheme: dark){body{color:white;background:#444}a:link{color:#5bf}a:visited{color:#ccf}}">
-     </head>
+     <link rel="stylesheet" href="https://gist.github.com/Kaioliveira1/a96515a700183658c8c338f32fb64602/style. css">
+    </head>
      <body>
        <h1><strong>Está é uma tag <em>H1</em> e o "H1" está com ênfase</strong></h1>
           <p>Isto é um <em>parágrafo</em></p>
