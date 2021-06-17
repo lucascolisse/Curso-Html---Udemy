@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
-     <link rel="stylesheet" href="https://gist.github.com/Kaioliveira1/a96515a700183658c8c338f32fb64602/style. css">
+     <link rel="stylesheet" href="https://gist.githubusercontent.com/Kaioliveira1/a96515a700183658c8c338f32fb64602/raw/ee407dc8cb61f1e2aff8da0f41f90e46f4cfaf55/style.css">
     </head>
      <body>
        <h1><strong>Está é uma tag <em>H1</em> e o "H1" está com ênfase</strong></h1>
